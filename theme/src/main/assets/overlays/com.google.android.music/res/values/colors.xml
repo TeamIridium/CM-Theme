@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <color name="play_music_primary">#ff5722</color>
-  <color name="play_music_primary_disabled">#80ff5722</color>
+  <color name="play_music_primary">#cddc39</color>
+  <color name="play_music_primary_disabled">#AFB42B</color>
   <color name="leanback_search_orb_background_color">#ff5722</color>
 
   <color name="play_card_light_background">#ffffff</color>
